@@ -33,7 +33,7 @@
     "mocha-multi": "^0.9.0"
   },
   "jest": {
-  "verbose": true,
-  "testURL": "http://localhost/"
-}
+    "verbose": true,
+    "testURL": "http://localhost/"
+  }
 }
